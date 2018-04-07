@@ -2,12 +2,14 @@
 
 ## Background
 
-This project is bult for the cellular automata edition of BONDM(A Bio-inspird Network Dividing Method). 
-This algorithm is much faster and stabler than the original BONDM with a better result.
-The name of this modified algorithm's paper is not been decided, and I have no idea which journel to submit.
+*    This project is built for the Parallel Growth edition of BONDM(A bio-inspired optimal network division method, submitted to Physica A, Elseviser). 
+
+*    This name of the paper has been determined as 'Cellular Parallel Growth Based Network Divding Method', in the same way, the project name was altered as 'CPGBNDM'.
+
+*    This paper will be submitted to AMM or other Elseviser journal.
 
 ## Run the algorithm
 
-Clone the project and change your matlab path to it.
-Type 'run' to run the run.m file.
-3 subnetwork examples will be shown after the algorithm finish.
+1.  Clone the project and change your matlab path to it.
+2.  Type 'run' to run the run.m file.
+3.  Subnetwork examples will be shown after the algorithm finish.
