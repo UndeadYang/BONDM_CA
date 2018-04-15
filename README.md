@@ -6,10 +6,10 @@
 
 *    This name of the paper has been determined as 'Cellular Parallel Growth Based Network Divding Method', in the same way, the project name was altered as 'CPGBNDM'.
 
-*    This paper will be submitted to AMM or other Elsevier journal.
+*    This paper has been submitted to AMM the Elsevier journal.
 
 ## Run the algorithm
 
 1.  Clone the project and change your matlab path to it.
-2.  Type 'run' to run the run.m file.
+2.  Enter 'run' to run the run.m file.
 3.  Subnetwork examples will be shown after the algorithm finish.
