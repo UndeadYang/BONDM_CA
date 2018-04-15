@@ -6,7 +6,7 @@
 
 *    This name of the paper has been determined as 'Cellular Parallel Growth Based Network Divding Method', in the same way, the project name was altered as 'CPGBNDM'.
 
-*    This paper has been submitted to AMM the Elsevier journal.
+*    This paper has been submitted to AMM one of the Elsevier journals.
 
 ## Run the algorithm
 
